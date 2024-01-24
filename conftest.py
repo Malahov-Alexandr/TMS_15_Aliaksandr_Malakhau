@@ -1,3 +1,4 @@
+import pytest
 @pytest.fixture
 def driver():
     options = webdriver.ChromeOptions()
