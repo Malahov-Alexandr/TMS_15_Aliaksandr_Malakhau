@@ -25,4 +25,4 @@ jobs:
 
     - name: Run Selenium Test
       run: |
-        pytest -v your_test_file.py
+        pytest -v test_selenium.py
